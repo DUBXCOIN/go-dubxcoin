@@ -6,6 +6,9 @@
 - p2p port 32609
 
 - HTTPS node https://rpcmain.arabianchain.org (add to Metamask)
+- 2 coins / block
+- blocktime 14 sec
+- API https://explorer.arabianchain.org/#/developer-api
 
 ## Automated development builds
 
@@ -36,18 +39,6 @@ For prerequisites and detailed build instructions please read the
 - chmod +x env.sh
 - cd ..
 - make gdubx-linux-amd64
-
----
-
-3. Once the dependencies are installed, run
-
-   make gdubx
-
-   ./build/bin/gdubx
-
-   or, to build the full suite of utilities:
-
-   make all
 
 ---
 
