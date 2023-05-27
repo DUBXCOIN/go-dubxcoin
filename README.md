@@ -6,6 +6,7 @@
 - p2p port 32609
 
 - HTTPS node https://rpcmain.arabianchain.org (add to Metamask)
+- HTTPS testnet node https://rpctestnet.arabianchain.org (add to Metamask)
 - 2 coins / block
 - blocktime 14 sec
 - API https://explorer.arabianchain.org/#/developer-api
