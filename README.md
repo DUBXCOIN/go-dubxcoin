@@ -17,7 +17,6 @@ The following builds are build automatically by our build servers after each pus
 
 - [Ubuntu (https://github.com/DUBXCOIN/go-dubxcoin)
 - [Windows 64-bit](https://github.com/DUBXCOIN/Desktopwallet/releases/download/v0.1.6a/Windows-dubxcoin-0.2.5a.zip)
-- [ARM](https://build.ethdev.com/builds/ARM%20Go%20develop%20branch/gdubx-ARM-latest.tar.bz2)
 
 ## Building the source
 
